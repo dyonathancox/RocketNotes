@@ -4,7 +4,7 @@ import { Container, Links, Content } from './styles.js'
 import { Header } from '../../components/Header'
 import { Button } from '../../components/Button'
 import { Section } from '../../components/Section'
-import { Tags } from '../../components/Tags'
+import { Tag } from '../../components/Tag'
 import { ButtonText } from '../../components/ButtonText'
 
 export function Details (){
